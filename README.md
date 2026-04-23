@@ -1,16 +1,53 @@
-## Hi there 👋
+# 📘 README – Perfil del Estudiante
 
-<!--
-**AngelGodofredo/AngelGodofredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Información General
 
-Here are some ideas to get you started:
+- **Nombre completo: Angel Godofredo Coreas Lovo**  
+- **Edad: 17**  
+- **Grado / Sección: B**  
+- **Especialidad: Desarrollo de Software**  
+- **Institución: Instituto Nacional de Santiago de Maria**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Intereses
+
+- Desarrollo de Videojuegos
+- Desarrollo de Paginas Web 
+- Bases de datos  
+
+---
+
+## 🧠 Habilidades
+
+- Buen nivel de ingles
+- Buen uso de la logica
+- Buen Liderazco
+
+---
+
+## 💻 Conocimientos Técnicos
+
+- Lenguajes de programación: HTML, MySql  
+- Herramientas tecnológicas:  Computadora
+- Otros conocimientos:  redes
+
+---
+
+## 📚 Experiencia Académica
+
+- Proyecto o trabajo 1  
+- Proyecto o trabajo 2  
+
+---
+
+## 🎯 Objetivos Personales
+
+- Objetivo 1  
+- Objetivo 2  
+
+---
+
+## 📌 Notas
+
+Información adicional que el estudiante desee agregar.
