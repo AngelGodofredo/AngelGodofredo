@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/gemaortizprivados23-lgtm/gemaortizprivados23-lgtm/main/banner.png](https://github.com/AngelGodofredo/AngelGodofredo/blob/3fca0967a088f69cf597b598e2fc3db904d145a1/Gemini_Generated_Image_j4empxj4empxj4em.png)" width="95%" />
+  <img src="https://raw.githubusercontent.com/gemaortizprivados23-lgtm/gemaortizprivados23-lgtm/main/banner.png" width="95%" />
 </p>
-
-
 
 # 📘 README – Perfil del Estudiante
 
